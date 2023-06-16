@@ -1,2 +1,2 @@
 # Striver-SDE-Sheet-Challenge
-strivesheet 2023
+This repository is created to keep the problems which i will be doing in this 60 days
